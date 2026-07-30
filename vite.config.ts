@@ -18,8 +18,8 @@ const localBindingConfig = {
     ? [
         {
           binding: d1,
-          database_name: "site-creator-d1",
-          database_id: SITE_CREATOR_PLACEHOLDER_DATABASE_ID,
+          database_name: "juniper-booking-db",
+          database_id: "ea3325fc-8486-4733-af9b-79efcf5aca17",
         },
       ]
     : [],
