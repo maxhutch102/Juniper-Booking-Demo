@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1784946531783,
+      "tag": "0000_perfect_havok",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1784948009018,
+      "tag": "0001_good_jean_grey",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1784948504251,
+      "tag": "0002_amazing_albert_cleary",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1784949147783,
+      "tag": "0003_vengeful_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1784950349407,
+      "tag": "0004_legal_makkari",
+      "breakpoints": true
+    }
+  ]
+}
